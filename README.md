@@ -7,7 +7,7 @@
 
 **SSG-48 adaptive electric gripper** is a gripper based on Spectral micro BLDC drivers. It is a gripper capable of controlling its gripping force, making it perfect for assembly tasks and human-robot collaboration. Force can be adjusted from 2 N to 35 N allowing you to grasp a wide range of items; from delicate and soft to rigid and sturdy.
 
-Mechanical files are open source allowing you to add a custom griping tool and attach it to any robotic arm or robot. Gripper software is also open-source. Gripper has stroke of 48 mm and mass of 400g.
+Mechanical files and firmware are open source allowing you to add a custom griping tool and attach it to any robotic arm or robot. Gripper software is also open-source. Gripper has stroke of 48 mm and mass of 400g.
 
 # How to build / Where to buy?
 
