@@ -1,7 +1,7 @@
 # SSG48 adaptive electric gripper
 [![License: apache](https://img.shields.io/badge/Licsence-apache-yellow.svg)](https://opensource.org/license/apache-1-1/)
 
-<img src="Photos/gripper_photo.png" alt="drawing" width="5000"/>
+<img src="Photos/Gripper_photo.png" alt="drawing" width="5000"/>
 
 **Sign up and get notified when available: https://source-robotics.com**
 
