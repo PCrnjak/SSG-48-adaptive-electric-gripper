@@ -42,4 +42,11 @@ If you want to Source all the parts yourself and build your own follow these ste
 1. The software and hardware are still in development and may contain bugs, errors, or incomplete features.
 2. Users are encouraged to use this software and hardware responsibly and at their own risk.
 
+# Support the project
+
+The majority of this project is open source and freely available to everyone. Your assistance, whether through donations or advice, is highly valued. Thank you!
+
+ [![General badge](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/PCrnjak?locale.x=en_US)
+[![General badge](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/PCrnjak)
+
 # Project is under Apache 2.0 Licence
