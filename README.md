@@ -5,7 +5,7 @@
 
 **Sign up and get notified when available: https://source-robotics.com**
 
-**SSG-48 adaptive electric gripper** is a gripper based on Spectral micro BLDC drivers. It is a gripper capable of controlling its gripping force, making it perfect for assembly tasks and human-robot collaboration. Force can be adjusted from 2 N to 35 N allowing you to grasp a wide range of items; from delicate and soft to rigid and sturdy.
+**SSG-48 adaptive electric gripper** is a gripper based on [Spectral micro BLDC drivers](https://source-robotics.com/products/spectral-micro-bldc-controller). It is a gripper capable of controlling its gripping force, making it perfect for assembly tasks and human-robot collaboration. Force can be adjusted from 2 N to 35 N allowing you to grasp a wide range of items; from delicate and soft to rigid and sturdy.
 
 Mechanical files and firmware are open source allowing you to add a custom griping tool and attach it to any robotic arm or robot. Gripper software is also open-source. Gripper has stroke of 48 mm and mass of 400g.
 
@@ -21,7 +21,7 @@ If you want to Source all the parts yourself and build your own follow these ste
 
 # Documentation:
 - [Product website](https://source-robotics.com/products/compliant-gripper)
-- [GUI software](https://github.com/PCrnjak/PAROL-commander-software) 
+- [GUI software](https://github.com/PCrnjak/SSG-gripper-GUI) 
 - [Building instructions](https://github.com/PCrnjak/PAROL6-Desktop-robot-arm/tree/main/Building%20instructions)
 - [BOM](https://github.com/PCrnjak/PAROL6-Desktop-robot-arm/tree/main/BOM)
 - [DOCS](https://source-robotics.github.io/PAROL-docs/)
