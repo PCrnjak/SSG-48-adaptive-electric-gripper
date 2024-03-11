@@ -20,6 +20,7 @@ If you want to Source all the parts yourself and build your own follow these ste
 * Follow [DOCS](https://source-robotics.github.io/PAROL-docs/) to get your gripper up and running.
 
 # Documentation:
+
 - [Product website](https://source-robotics.com/products/compliant-gripper)
 - [GUI software](https://github.com/PCrnjak/SSG-gripper-GUI) 
 - [Building instructions](https://github.com/PCrnjak/PAROL6-Desktop-robot-arm/tree/main/Building%20instructions)
@@ -32,7 +33,9 @@ If you want to Source all the parts yourself and build your own follow these ste
 - [Instagram](https://www.instagram.com/5arcrnjak/)
 - [DOCS](https://source-robotics.github.io/PAROL-docs/)
 - [Twitter](https://twitter.com/SourceRobotics)
-- Join [Discord](https://discord.com/invite/prjUvjmGpZ ) community!
+- [Discord](https://discord.com/invite/prjUvjmGpZ )
+- [Forum](https://discourse.source-robotics.com/)
+- [Blog](https://source-robotics.com/blogs/blog)
 
 
 # Liability 
