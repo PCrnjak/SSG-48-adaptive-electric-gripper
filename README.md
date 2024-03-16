@@ -25,7 +25,7 @@ If you want to Source all the parts yourself and build your own follow these ste
 - [GUI software](https://github.com/PCrnjak/SSG-gripper-GUI) 
 - [Building instructions](https://github.com/PCrnjak/PAROL6-Desktop-robot-arm/tree/main/Building%20instructions)
 - [BOM](https://github.com/PCrnjak/PAROL6-Desktop-robot-arm/tree/main/BOM)
-- [DOCS](https://source-robotics.github.io/PAROL-docs/)
+- [DOCS](https://source-robotics.github.io/SSG48-gripper-docs/page1_about_the_gripper/)
 
 # More about SSG48 adaptive electric gripper
 - [Youtube](https://www.youtube.com/channel/UCp3sDRwVkbm7b2M-2qwf5aQ)
