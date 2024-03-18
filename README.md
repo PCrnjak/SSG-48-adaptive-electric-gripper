@@ -7,7 +7,7 @@
 
 **SSG-48 adaptive electric gripper** is a gripper based on [Spectral micro BLDC drivers](https://source-robotics.com/products/spectral-micro-bldc-controller). It is a gripper capable of controlling its gripping force, making it perfect for assembly tasks and human-robot collaboration. Force can be adjusted from 2 N to 35 N allowing you to grasp a wide range of items; from delicate and soft to rigid and sturdy.
 
-Mechanical files and firmware are open source allowing you to add a custom griping tool and attach it to any robotic arm or robot. Gripper software is also open-source. Gripper has stroke of 48 mm and mass of 400g.
+Mechanical files and firmware are open source allowing you to add a custom griping tool and attach it to any robotic arm or robot. Gripper software is also open-source. Gripper has a stroke of 48 mm and a mass of 400g.
 
 # How to build / Where to buy?
 
@@ -15,16 +15,16 @@ You can buy SSG48 adaptive electric gripper on our website: https://source-robot
 
 If you want to Source all the parts yourself and build your own follow these steps:
 
-* Source all the parts from the [BOM](https://github.com/PCrnjak/PAROL6-Desktop-robot-arm/tree/main/BOM)
-* Follow [Building instructions](https://github.com/PCrnjak/PAROL6-Desktop-robot-arm/tree/main/Building%20instructions) to assemble your gripper
+* Source all the parts from the [BOM](https://github.com/PCrnjak/SSG-48-adaptive-electric-gripper/tree/main/BOM)
+* Follow [Building instructions](https://github.com/PCrnjak/SSG-48-adaptive-electric-gripper/tree/main/Assembly%20manual) to assemble your gripper
 * Follow [DOCS](https://source-robotics.github.io/SSG48-gripper-docs/page1_about_the_gripper/) to get your gripper up and running.
 
 # Documentation:
 
 - [Product website](https://source-robotics.com/products/compliant-gripper)
 - [GUI software](https://github.com/PCrnjak/SSG-gripper-GUI) 
-- [Building instructions](https://github.com/PCrnjak/PAROL6-Desktop-robot-arm/tree/main/Building%20instructions)
-- [BOM](https://github.com/PCrnjak/PAROL6-Desktop-robot-arm/tree/main/BOM)
+- [Building instructions](https://github.com/PCrnjak/SSG-48-adaptive-electric-gripper/tree/main/Assembly%20manual)
+- [BOM](https://github.com/PCrnjak/SSG-48-adaptive-electric-gripper/tree/main/BOM)
 - [DOCS](https://source-robotics.github.io/SSG48-gripper-docs/page1_about_the_gripper/)
 
 # More about SSG48 adaptive electric gripper
