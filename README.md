@@ -31,7 +31,7 @@ If you want to Source all the parts yourself and build your own follow these ste
 # More about SSG48 adaptive electric gripper
 - [Youtube](https://www.youtube.com/channel/UCp3sDRwVkbm7b2M-2qwf5aQ)
 - [Hackaday](https://hackaday.io/project/191860-parol6-desktop-robotic-arm)
-- [Instagram](https://www.instagram.com/5arcrnjak/)
+- [Instagram](https://www.instagram.com/source_robotics/)
 - [Twitter](https://twitter.com/SourceRobotics)
 - [Discord](https://discord.com/invite/prjUvjmGpZ )
 - [Forum](https://discourse.source-robotics.com/)
