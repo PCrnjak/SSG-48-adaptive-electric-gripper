@@ -3,7 +3,7 @@
 
 <img src="Photos/Gripper_photo.png" alt="drawing" width="5000"/>
 
-**Sign up and get notified when available: https://source-robotics.com**
+[Video of gripper!](https://www.youtube.com/shorts/DQgi8Ua-VAU)
 
 **SSG-48 adaptive electric gripper** is a gripper based on [Spectral micro BLDC drivers](https://source-robotics.com/products/spectral-micro-bldc-controller). It is a gripper capable of controlling its gripping force, making it perfect for assembly tasks and human-robot collaboration. Force can be adjusted from 5 N to 80 N allowing you to grasp a wide range of items; from delicate and soft to rigid and sturdy.
 
