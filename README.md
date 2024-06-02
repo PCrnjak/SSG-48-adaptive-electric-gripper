@@ -16,7 +16,7 @@ You can buy SSG48 adaptive electric gripper on our website: https://source-robot
 If you want to Source all the parts yourself and build your own follow these steps:
 
 * Source all the parts from the [BOM](https://github.com/PCrnjak/SSG-48-adaptive-electric-gripper/tree/main/BOM)
-* Follow [Building instructions](https://github.com/PCrnjak/SSG-48-adaptive-electric-gripper/tree/main/Assembly%20manual) to assemble your gripper
+* Follow [Assembly instructions](https://github.com/PCrnjak/SSG-48-adaptive-electric-gripper/tree/main/Assembly%20manual) or [Video instructions](https://www.youtube.com/watch?v=127zXHKuqIg) to assemble your gripper
 * Follow [DOCS](https://source-robotics.github.io/SSG48-gripper-docs/page1_about_the_gripper/) to get your gripper up and running.
 
 # Documentation:
