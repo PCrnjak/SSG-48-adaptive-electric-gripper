@@ -1,4 +1,4 @@
-<img src="Photos/Gripper_photo.png" alt="drawing" width="5000"/>
+<img src="Photos/SSG48_banner.png" alt="drawing" width="5000"/>
 
 <div align="center">
 
@@ -36,7 +36,39 @@ If you want to Source all the parts yourself and build your own follow these ste
 - [ROS2 package](https://github.com/Lass6230/ssg48_adaptive_electric_gripper_ros2)
 
 
+## 💻Quick start code example
 
+```python
+import Spectral_BLDC as Spectral
+import time
+
+Communication1 = Spectral.CanCommunication(bustype='slcan', channel='COM20', bitrate=1000000)
+Motor1 = Spectral.SpectralCAN(node_id=0, communication=Communication1)
+
+Motor1.Send_Clear_Error()
+Motor1.Send_gripper_calibrate()
+time.sleep(4)
+
+temp_var = 0
+while True:
+   if temp_var == 0:
+      Motor1.Send_gripper_data_pack(50,100,700,1,1,0,0) 
+      temp_var = 1
+   elif temp_var == 1:
+      Motor1.Send_gripper_data_pack(240,100,700,1,1,0,0) 
+      temp_var = 0
+
+   message, UnpackedMessageID = Communication1.receive_can_messages(timeout=0.2) 
+
+   if message is not None:
+      print(f"Message is: {message}")
+      print(f"Node ID is : {UnpackedMessageID.node_id}")
+      print(f"Message ID is: {UnpackedMessageID.command_id}")
+      print(f"Error bit is: {UnpackedMessageID.error_bit}")
+      print(f"Timestamp is: {message.timestamp}")
+
+   time.sleep(3)
+```
 
 
 ## 🌐 More about the SSG48 Adaptive Electric Gripper
