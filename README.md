@@ -33,7 +33,7 @@ If you want to Source all the parts yourself and build your own follow these ste
 - [BOM](https://github.com/PCrnjak/SSG-48-adaptive-electric-gripper/tree/main/BOM)
 - [DOCS](https://source-robotics.github.io/SSG48-gripper-docs/page1_about_the_gripper/)
 - [Python API](https://github.com/PCrnjak/Spectral-BLDC-Python/tree/main)
-- [ROS2 package](https://github.com/Lass6230/ssg48_adaptive_electric_gripper_ros2)
+- [ROS2 package for SSG48 gripper](https://github.com/Lass6230/ssg48_adaptive_electric_gripper_ros2) /// [ROS2 package for MSG gripper](https://github.com/BiomechatronicsLab/source_robotics_msg_gripper_ros2)
 - [URDF & MJCF files](/SSG48_gripper_description/)
 
 
