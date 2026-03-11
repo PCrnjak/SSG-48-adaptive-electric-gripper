@@ -7,7 +7,7 @@
 
 </div>
 
-[Video of gripper!](https://www.youtube.com/shorts/DQgi8Ua-VAU)
+## [▶️YouTube🔴 Video of Gripper in Action!](https://www.youtube.com/shorts/DQgi8Ua-VAU)
 
 ## 📖 Project Overview
 
