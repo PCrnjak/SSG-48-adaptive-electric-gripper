@@ -5,9 +5,9 @@
 # SSG48 adaptive electric gripper
 [![License: apache](https://img.shields.io/badge/Licsence-apache-yellow.svg)](https://opensource.org/license/apache-1-1/)  ![Issues](https://img.shields.io/github/issues/PCrnjak/SSG-48-adaptive-electric-gripper) ![release](https://img.shields.io/github/v/release/PCrnjak/SSG-48-adaptive-electric-gripper) [![ROS2](https://img.shields.io/badge/ROS-2-blueviolet?logo=ros)](https://github.com/Lass6230/ssg48_adaptive_electric_gripper_ros2)  [![Python](https://img.shields.io/badge/Python-API-yellow?logo=python&logoColor=black)](https://github.com/PCrnjak/Spectral-BLDC-Python/tree/main)  [![Docs](https://img.shields.io/badge/DOCS-GitHub%20Pages-brightgreen)](https://source-robotics.github.io/SSG48-gripper-docs/page1_about_the_gripper/)
 
-</div>
-
 ## [▶️YouTube🔴 Video of Gripper in Action!](https://www.youtube.com/shorts/DQgi8Ua-VAU)
+
+</div>
 
 ## 📖 Project Overview
 
